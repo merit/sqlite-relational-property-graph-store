@@ -1,0 +1,204 @@
+{
+    "id": "dc30880d-2d4b-447c-905e-b79075aea95b",
+    "acceptedAt": "2023-07-17T08:52:19.489566Z",
+    "active": true,
+    "activenessFailures": null,
+    "authorizedAt": "2023-07-17T08:52:15.960677Z",
+    "completed": true,
+    "completenessFailures": null,
+    "createdAt": "2023-07-17T15:52:04.3018Z",
+    "description": "Template for admin merit",
+    "fields": [
+        {
+            "canShare": false,
+            "description": "Use this to store recipient's first name",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "First Name",
+            "templateFieldID": "1b397a27-14a0-4d43-a36f-6006611f4073",
+            "templateFieldLineage": [
+                "3dc3f769-70cc-4e7e-81cc-ed103f9eb601"
+            ],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "Hank"
+        },
+        {
+            "canShare": false,
+            "description": "Use this to store recipient's last name",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "Last Name",
+            "templateFieldID": "1a7fbab6-db84-49df-8196-a971afcde447",
+            "templateFieldLineage": [
+                "5029dd4c-9879-46cd-81ac-0f75ca0c46fb"
+            ],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "Lindgren"
+        },
+        {
+            "canShare": false,
+            "description": "Use this to store recipient's email address",
+            "fieldKind": {
+                "fieldType": "Email",
+                "id": "0341c64a-f276-4b9f-8872-4c9f9268830b",
+                "name": "Email"
+            },
+            "name": "Email",
+            "templateFieldID": "9d2c72c3-d801-4bd7-baf9-c92b3825f880",
+            "templateFieldLineage": [
+                "9fe900b5-c2d2-4130-a72c-bb03bd623324"
+            ],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "oleg+user2@gomerits.com"
+        },
+        {
+            "canShare": false,
+            "description": "Use this to store the name of the Organization issuing this Merit",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "Issuing Org Name",
+            "templateFieldID": "2a5cbf54-9eb3-4da4-a6c5-583a1add0205",
+            "templateFieldLineage": [
+                "9a516485-b702-4a62-b4a5-edb2edb4ba49"
+            ],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "Merit International, Inc."
+        },
+        {
+            "canShare": false,
+            "description": "Field to store Org UUID",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "Org UUID",
+            "templateFieldID": "dc3f107f-1ea0-4dae-8695-866d7d721df0",
+            "templateFieldLineage": [],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "user2"
+        },
+        {
+            "canShare": false,
+            "description": "Field to store Admin Phone Number",
+            "fieldKind": {
+                "fieldType": "PhoneNumber",
+                "id": "7157ea5d-5975-419a-87f0-3f12e9ae0bcc",
+                "name": "PhoneNumber"
+            },
+            "name": "Admin Phone Number",
+            "templateFieldID": "e90e34e2-6429-4bfb-8ca1-fe11b3bad713",
+            "templateFieldLineage": [],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "6317070926"
+        },
+        {
+            "canShare": false,
+            "description": "Field to store Org Legal Name",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "Org Legal Name",
+            "templateFieldID": "137c9f13-eccf-4baa-8577-958302e1969c",
+            "templateFieldLineage": [],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "Org legal name 74d00472-85d5-4c6b-81d3-5b6353a8a7fd"
+        },
+        {
+            "canShare": false,
+            "description": "Field to store Org Name",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "Org Name",
+            "templateFieldID": "3aec2732-acad-4fba-8dd3-c97c390c0129",
+            "templateFieldLineage": [],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "Organization Name b6e9f27b-6214-4f57-a670-5e02d2a1fdeb"
+        },
+        {
+            "canShare": false,
+            "description": "Field to store Org Description",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "Org Description",
+            "templateFieldID": "884fd153-2bf5-4f26-8cae-4bb75c538561",
+            "templateFieldLineage": [],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "This is very important organization"
+        },
+        {
+            "canShare": false,
+            "description": "Field to store Org Governing Country",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "Org Governing Country",
+            "templateFieldID": "af7c9abd-c579-4075-a63a-208002e07aea",
+            "templateFieldLineage": [],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "US"
+        },
+        {
+            "canShare": false,
+            "description": "Field to store Org Governing State",
+            "fieldKind": {
+                "fieldType": "Text",
+                "id": "a9fa2832-4107-4c95-b7d8-0cdd15a7e2bc",
+                "name": "Text"
+            },
+            "name": "Org Governing State",
+            "templateFieldID": "8c344f00-a9cf-437d-9974-3fc46935aa30",
+            "templateFieldLineage": [],
+            "updatedAt": "2023-07-17T15:52:19.496539Z",
+            "validationErrors": null,
+            "value": "CA"
+        }
+    ],
+    "issuer": {
+        "id": "9a5eb92a-b34a-42b9-8fb7-10ce9449e83e",
+        "state": "active",
+        "type": "organization"
+    },
+    "name": "Admin merit",
+    "recipient": {
+        "id": "196a8c8f-6fd9-456b-8193-4159b8dc3ab6",
+        "state": "active",
+        "type": "person"
+    },
+    "rejectedAt": null,
+    "state": {
+        "name": "accepted",
+        "occurredAt": "2023-07-17T08:52:19.489566Z"
+    },
+    "templateId": "72fdc5f3-dd82-489d-a6fa-42f6897a2f92",
+    "updatedAt": "2023-07-17T15:52:19.496539Z"
+}
