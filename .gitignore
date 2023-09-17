@@ -8,3 +8,4 @@ pyvenv.cfg
 *.db
 .DS_Store
 
+notebooks/merit_vc_mapping.html
